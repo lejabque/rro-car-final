@@ -6,8 +6,10 @@ Self-driving car model
 <img src="https://habrastorage.org/webt/3l/sd/x7/3lsdx7wiyhgmnoff5unxqxcqsrw.jpeg" width="420" height="400" border="10"/>
 <img src="https://habrastorage.org/webt/hv/jf/xn/hvjfxnredlzqn_w0lqinb-naj4w.jpeg" width="420" height="400" border="10"/> 
 <br>
-This project builds a self-driving car using Raspberry Pi, Arduino and open source software. Raspberry Pi collects inputs from a camera,
-processes input images for object detection (road signs, line and traffic light).
+This project builds a self-driving car using Raspberry Pi, Arduino and open source software.
+<br>
+Raspberry Pi collects inputs from a camera, processes input images for object detection (road signs, line and traffic light).
+<br>
 Data is then sent to the Arduino for car control. 
   
 ### About the files
