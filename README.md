@@ -1,5 +1,5 @@
 ## Computer Vision system for autonomus car. 
-## Russian Robotics Olympiad 2018
+### Russian Robotics Olympiad 2018
 ### Python3 + OpenCV3
 
 Self-driving car model
