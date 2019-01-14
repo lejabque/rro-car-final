@@ -11,7 +11,9 @@ This project builds a self-driving car using Raspberry Pi, Arduino and open sour
 Raspberry Pi collects inputs from a camera, processes input images for object detection (road signs, line and traffic light).
 <br>
 Data is then sent to the Arduino for car control. 
-  
+
+<img src="line.gif" width="640" height="480" />
+<br>
 ### About the files
 **straming/**  
   &emsp; &emsp; `client_cv.py`: video streaming from Pi to computer  
