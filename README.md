@@ -18,7 +18,7 @@ Example of line detection:
 
 
 ### About the files
-**straming/**  
+**streaming/**  
   &emsp; &emsp; `client_cv.py`: video streaming from Pi to computer  
   &emsp; &emsp;  `server_cv.py`: video receiving on computer
   
